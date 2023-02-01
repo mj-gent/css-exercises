@@ -1,15 +1,17 @@
 /* Comment in CSS */
 
-#first {
+.one,
+.two {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.one {
     background-color: black;
     color: white;
 }
 
-#second {
+.two {
     background-color: yellow;
 }
 
-.both {
-    font-size: 28px;
-    font-family: Helvetica, "Times New Roman", sans-serif;
-}
